@@ -1,0 +1,12 @@
+{
+  "Records": [
+    {
+      "equipment": {
+        "id": "THERMOSTAT_1"
+      },
+      "id": "SENSOR_cebb1baf_2df0_4267_b489_28be562fccea",
+      "measureValue": 10,
+      "eventTimestamp": 1721666423000
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "Records": [
+    {
+      "id": "cda160c0-c790-47da-bd65-4abae838af3a",
+      "name": "RuleTest1",
+      "status": "ACTIVE",
+      "equipmentName": "THERMOSTAT_1",
+      "ruleExpression": "(SENSOR_cebb1baf_2df0_4267_b489_28be562fccea.hasNotChanged(5))",
+      "sensorWindowMap": {
+        "SENSOR_cebb1baf_2df0_4267_b489_28be562fccea": 5
+      }
+    }
+  ]
+}
